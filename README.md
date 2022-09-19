@@ -1,2 +1,2 @@
-# ayequ.github.io
+# ayeque.github.io
 AyeQue (TM) website
